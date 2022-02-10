@@ -1,4 +1,4 @@
-# memo-card-game
+# Memory Card Game
 
 ## Project setup
 ```
